@@ -1,3 +1,17 @@
-# Codility Lessons
+# Codility Lessons and Tasks
 
-Collection of my personal solved codility tasks
+List of solved tasks:
+
+- Iterations
+    - BinaryGap
+- Arrays
+    - OddOccurrenciesInArray
+    - CyclicRotation
+- Time Complexity
+    - PermMissingElem
+    - FrogJmp
+    - TapeEquilibrium
+- Counting Elements
+    - MissingInteger
+    - PermCheck
+    - FrogRiverOne
