@@ -15,3 +15,4 @@ List of solved tasks:
     - MissingInteger
     - PermCheck
     - FrogRiverOne
+    - MaxCounters
